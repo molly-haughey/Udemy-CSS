@@ -1,0 +1,75 @@
+a {
+  color: #e76f51;
+}
+
+a:hover {
+  color: #f4a261;
+  text-decoration: none;
+}
+
+body {
+  background-color: #e9c46a;
+  margin: 0;
+  text-align: center;
+  font-family: 'Maven Pro', sans-serif;
+  color: #264653;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Lobster', cursive;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+hr {
+  width: 250px;
+  background-color: #264653;
+  border: none;
+  height: 5px;
+}
+
+.top {
+  background-color: #e9c46a;
+  margin: 100px 0px 0px 0px;
+  padding: 20px 0px;
+}
+
+.middle {
+  background-color: #2a9d8f;
+  padding: 20px 0px;
+}
+
+.bottom {
+  margin-bottom: 40px;
+}
+
+#bos {
+  border-radius: 20px;
+  width: 200px;
+}
+
+#footer-img {
+  width: 75px;
+  margin: 0px 5px 0px 5px;
+}
+
+#logical-t {
+  width: 300px;
+}
+
+#molly-pic {
+  border-radius: 100px;
+  width: 200px
+}
+
+#trek {
+  border-radius: 20px;
+  width: 500px;
+}
