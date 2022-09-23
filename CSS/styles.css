@@ -18,10 +18,12 @@ body {
 h1 {
   margin: 0;
   font-family: 'Lobster', cursive;
+  font-size: 560%;
 }
 
 h2 {
   font-family: 'Permanent Marker', cursive;
+  font-size: 2.5rem;
 }
 
 h3 {
@@ -33,6 +35,12 @@ hr {
   background-color: #264653;
   border: none;
   height: 5px;
+}
+
+.bio {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
 }
 
 .top {
@@ -50,6 +58,16 @@ hr {
   margin-bottom: 40px;
 }
 
+.projects {
+  clear: both;
+}
+
+.skills {
+  width: 50%;
+  margin: 0 auto 30px auto;
+  text-align: left;
+}
+
 #bos {
   border-radius: 20px;
   width: 200px;
@@ -61,12 +79,16 @@ hr {
 }
 
 #logical-t {
-  width: 300px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
 }
 
 #molly-pic {
   border-radius: 100px;
-  width: 200px
+  width: 200px;
+  float: right;
+  margin: 20px 0px 0px 30px;
 }
 
 #trek {
