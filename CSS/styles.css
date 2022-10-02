@@ -31,7 +31,7 @@ h3 {
 }
 
 hr {
-  width: 250px;
+  width: 10%;
   background-color: #264653;
   border: none;
   height: 5px;
@@ -73,6 +73,10 @@ hr {
   width: 200px;
 }
 
+#copyright {
+  color: #2a9d8f;
+  font-size: 10px;
+}
 #footer-img {
   width: 75px;
   margin: 0px 5px 0px 5px;
